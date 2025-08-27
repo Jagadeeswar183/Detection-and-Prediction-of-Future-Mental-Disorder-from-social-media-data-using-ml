@@ -1,0 +1,301 @@
+Respondent,Age,Gender,Frequency of Social Media Interaction,Self-reported Mental Health Status,Impact on Mental Health (Score)
+1,28,Female,Frequently,Good,3.5
+2,35,Male,Occasionally,Excellent,4.2
+3,22,Female,Very Often,Poor,2.1
+4,45,Male,Rarely,Good,4
+5,29,Female,Frequently,Fair,3.1
+6,38,Male,Occasionally,Excellent,4.3
+7,24,Male,Very Often,Poor,2
+8,31,Female,Frequently,Good,3.6
+9,50,Male,Rarely,Fair,3.3
+10,27,Female,Occasionally,Excellent,4.5
+11,34,Female,Frequently,Good,3.8
+12,42,Male,Frequently,Excellent,4.4
+13,21,Female,Occasionally,Fair,3
+14,55,Female,Rarely,Good,4.1
+15,32,Male,Very Often,Excellent,4.6
+16,26,Male,Frequently,Poor,2.2
+17,29,Female,Frequently,Good,3.7
+18,47,Male,Occasionally,Excellent,4.7
+19,30,Female,Frequently,Fair,3.2
+20,39,Male,Rarely,Good,3.9
+21,23,Female,Very Often,Excellent,4.8
+22,36,Female,Occasionally,Poor,2.3
+23,44,Male,Rarely,Good,4
+24,28,Female,Frequently,Good,3.5
+25,35,Male,Occasionally,Excellent,4.2
+26,22,Female,Very Often,Poor,2.1
+27,45,Male,Rarely,Good,4
+28,29,Female,Frequently,Fair,3.1
+29,38,Male,Occasionally,Excellent,4.3
+30,24,Male,Very Often,Poor,2
+31,31,Female,Frequently,Good,3.6
+32,50,Male,Rarely,Fair,3.3
+33,27,Female,Occasionally,Excellent,4.5
+34,34,Female,Frequently,Good,3.8
+35,42,Male,Frequently,Excellent,4.4
+36,21,Female,Occasionally,Fair,3
+37,55,Female,Rarely,Good,4.1
+38,32,Male,Very Often,Excellent,4.6
+39,26,Male,Frequently,Poor,2.2
+40,29,Female,Frequently,Good,3.7
+41,47,Male,Occasionally,Excellent,4.7
+42,30,Female,Frequently,Fair,3.2
+43,39,Male,Rarely,Good,3.9
+44,23,Female,Very Often,Excellent,4.8
+45,36,Female,Occasionally,Poor,2.3
+46,44,Male,Rarely,Good,4
+47,28,Female,Frequently,Good,3.5
+48,35,Male,Occasionally,Excellent,4.2
+49,22,Female,Very Often,Poor,2.1
+50,45,Male,Rarely,Good,4
+51,29,Female,Frequently,Fair,3.1
+52,38,Male,Occasionally,Excellent,4.3
+53,24,Male,Very Often,Poor,2
+54,31,Female,Frequently,Good,3.6
+55,50,Male,Rarely,Fair,3.3
+56,27,Female,Occasionally,Excellent,4.5
+57,34,Female,Frequently,Good,3.8
+58,42,Male,Frequently,Excellent,4.4
+59,21,Female,Occasionally,Fair,3
+60,55,Female,Rarely,Good,4.1
+61,32,Male,Very Often,Excellent,4.6
+62,26,Male,Frequently,Poor,2.2
+63,29,Female,Frequently,Good,3.7
+64,47,Male,Occasionally,Excellent,4.7
+65,30,Female,Frequently,Fair,3.2
+66,39,Male,Rarely,Good,3.9
+67,23,Female,Very Often,Excellent,4.8
+68,36,Female,Occasionally,Poor,2.3
+69,44,Male,Rarely,Good,4
+70,28,Female,Frequently,Good,3.5
+71,35,Male,Occasionally,Excellent,4.2
+72,22,Female,Very Often,Poor,2.1
+73,45,Male,Rarely,Good,4
+74,29,Female,Frequently,Fair,3.1
+75,38,Male,Occasionally,Excellent,4.3
+76,24,Male,Very Often,Poor,2
+77,31,Female,Frequently,Good,3.6
+78,50,Male,Rarely,Fair,3.3
+79,27,Female,Occasionally,Excellent,4.5
+80,34,Female,Frequently,Good,3.8
+81,42,Male,Frequently,Excellent,4.4
+82,21,Female,Occasionally,Fair,3
+83,55,Female,Rarely,Good,4.1
+84,32,Male,Very Often,Excellent,4.6
+85,26,Male,Frequently,Poor,2.2
+86,29,Female,Frequently,Good,3.7
+87,47,Male,Occasionally,Excellent,4.7
+88,30,Female,Frequently,Fair,3.2
+89,39,Male,Rarely,Good,3.9
+90,23,Female,Very Often,Excellent,4.8
+91,36,Female,Occasionally,Poor,2.3
+92,44,Male,Rarely,Good,4
+93,28,Female,Frequently,Good,3.5
+94,35,Male,Occasionally,Excellent,4.2
+95,22,Female,Very Often,Poor,2.1
+96,45,Male,Rarely,Good,4
+97,29,Female,Frequently,Fair,3.1
+98,38,Male,Occasionally,Excellent,4.3
+99,24,Male,Very Often,Poor,2
+100,31,Female,Frequently,Good,3.6
+101,50,Male,Rarely,Fair,3.3
+102,27,Female,Occasionally,Excellent,4.5
+103,34,Female,Frequently,Good,3.8
+104,42,Male,Frequently,Excellent,4.4
+105,21,Female,Occasionally,Fair,3
+106,55,Female,Rarely,Good,4.1
+107,32,Male,Very Often,Excellent,4.6
+108,26,Male,Frequently,Poor,2.2
+109,29,Female,Frequently,Good,3.7
+110,47,Male,Occasionally,Excellent,4.7
+111,30,Female,Frequently,Fair,3.2
+112,39,Male,Rarely,Good,3.9
+113,23,Female,Very Often,Excellent,4.8
+114,36,Female,Occasionally,Poor,2.3
+115,44,Male,Rarely,Good,4
+116,28,Female,Frequently,Good,3.5
+117,35,Male,Occasionally,Excellent,4.2
+118,22,Female,Very Often,Poor,2.1
+119,45,Male,Rarely,Good,4
+120,29,Female,Frequently,Fair,3.1
+121,38,Male,Occasionally,Excellent,4.3
+122,24,Male,Very Often,Poor,2
+123,31,Female,Frequently,Good,3.6
+124,50,Male,Rarely,Fair,3.3
+125,27,Female,Occasionally,Excellent,4.5
+126,34,Female,Frequently,Good,3.8
+127,42,Male,Frequently,Excellent,4.4
+128,21,Female,Occasionally,Fair,3
+129,55,Female,Rarely,Good,4.1
+130,32,Male,Very Often,Excellent,4.6
+131,26,Male,Frequently,Poor,2.2
+132,29,Female,Frequently,Good,3.7
+133,47,Male,Occasionally,Excellent,4.7
+134,30,Female,Frequently,Fair,3.2
+135,39,Male,Rarely,Good,3.9
+136,23,Female,Very Often,Excellent,4.8
+137,36,Female,Occasionally,Poor,2.3
+138,44,Male,Rarely,Good,4
+139,28,Female,Frequently,Good,3.5
+140,35,Male,Occasionally,Excellent,4.2
+141,22,Female,Very Often,Poor,2.1
+142,45,Male,Rarely,Good,4
+143,29,Female,Frequently,Fair,3.1
+144,38,Male,Occasionally,Excellent,4.3
+145,24,Male,Very Often,Poor,2
+146,31,Female,Frequently,Good,3.6
+147,50,Male,Rarely,Fair,3.3
+148,27,Female,Occasionally,Excellent,4.5
+149,34,Female,Frequently,Good,3.8
+150,42,Male,Frequently,Excellent,4.4
+151,21,Female,Occasionally,Fair,3
+152,55,Female,Rarely,Good,4.1
+153,32,Male,Very Often,Excellent,4.6
+154,26,Male,Frequently,Poor,2.2
+155,29,Female,Frequently,Good,3.7
+156,47,Male,Occasionally,Excellent,4.7
+157,30,Female,Frequently,Fair,3.2
+158,39,Male,Rarely,Good,3.9
+159,23,Female,Very Often,Excellent,4.8
+160,36,Female,Occasionally,Poor,2.3
+161,44,Male,Rarely,Good,4
+162,28,Female,Frequently,Good,3.5
+163,35,Male,Occasionally,Excellent,4.2
+164,22,Female,Very Often,Poor,2.1
+165,45,Male,Rarely,Good,4
+166,29,Female,Frequently,Fair,3.1
+167,38,Male,Occasionally,Excellent,4.3
+168,24,Male,Very Often,Poor,2
+169,31,Female,Frequently,Good,3.6
+170,50,Male,Rarely,Fair,3.3
+171,27,Female,Occasionally,Excellent,4.5
+172,34,Female,Frequently,Good,3.8
+173,42,Male,Frequently,Excellent,4.4
+174,21,Female,Occasionally,Fair,3
+175,55,Female,Rarely,Good,4.1
+176,32,Male,Very Often,Excellent,4.6
+177,26,Male,Frequently,Poor,2.2
+178,29,Female,Frequently,Good,3.7
+179,47,Male,Occasionally,Excellent,4.7
+180,30,Female,Frequently,Fair,3.2
+181,39,Male,Rarely,Good,3.9
+182,23,Female,Very Often,Excellent,4.8
+183,36,Female,Occasionally,Poor,2.3
+184,44,Male,Rarely,Good,4
+185,28,Female,Frequently,Good,3.5
+186,35,Male,Occasionally,Excellent,4.2
+187,22,Female,Very Often,Poor,2.1
+188,45,Male,Rarely,Good,4
+189,29,Female,Frequently,Fair,3.1
+190,38,Male,Occasionally,Excellent,4.3
+191,24,Male,Very Often,Poor,2
+192,31,Female,Frequently,Good,3.6
+193,50,Male,Rarely,Fair,3.3
+194,27,Female,Occasionally,Excellent,4.5
+195,34,Female,Frequently,Good,3.8
+196,42,Male,Frequently,Excellent,4.4
+197,21,Female,Occasionally,Fair,3
+198,55,Female,Rarely,Good,4.1
+199,32,Male,Very Often,Excellent,4.6
+200,26,Male,Frequently,Poor,2.2
+201,29,Female,Frequently,Good,3.7
+202,47,Male,Occasionally,Excellent,4.7
+203,30,Female,Frequently,Fair,3.2
+204,39,Male,Rarely,Good,3.9
+205,23,Female,Very Often,Excellent,4.8
+206,36,Female,Occasionally,Poor,2.3
+207,44,Male,Rarely,Good,4
+208,28,Female,Frequently,Good,3.5
+209,35,Male,Occasionally,Excellent,4.2
+210,22,Female,Very Often,Poor,2.1
+211,45,Male,Rarely,Good,4
+212,29,Female,Frequently,Fair,3.1
+213,38,Male,Occasionally,Excellent,4.3
+214,24,Male,Very Often,Poor,2
+215,31,Female,Frequently,Good,3.6
+216,50,Male,Rarely,Fair,3.3
+217,27,Female,Occasionally,Excellent,4.5
+218,34,Female,Frequently,Good,3.8
+219,42,Male,Frequently,Excellent,4.4
+220,21,Female,Occasionally,Fair,3
+221,55,Female,Rarely,Good,4.1
+222,32,Male,Very Often,Excellent,4.6
+223,26,Male,Frequently,Poor,2.2
+224,29,Female,Frequently,Good,3.7
+225,47,Male,Occasionally,Excellent,4.7
+226,30,Female,Frequently,Fair,3.2
+227,39,Male,Rarely,Good,3.9
+228,23,Female,Very Often,Excellent,4.8
+229,36,Female,Occasionally,Poor,2.3
+230,44,Male,Rarely,Good,4
+231,28,Female,Frequently,Good,3.5
+232,35,Male,Occasionally,Excellent,4.2
+233,22,Female,Very Often,Poor,2.1
+234,45,Male,Rarely,Good,4
+235,29,Female,Frequently,Fair,3.1
+236,38,Male,Occasionally,Excellent,4.3
+237,24,Male,Very Often,Poor,2
+238,31,Female,Frequently,Good,3.6
+239,50,Male,Rarely,Fair,3.3
+240,27,Female,Occasionally,Excellent,4.5
+241,34,Female,Frequently,Good,3.8
+242,42,Male,Frequently,Excellent,4.4
+243,21,Female,Occasionally,Fair,3
+244,55,Female,Rarely,Good,4.1
+245,32,Male,Very Often,Excellent,4.6
+246,26,Male,Frequently,Poor,2.2
+247,29,Female,Frequently,Good,3.7
+248,47,Male,Occasionally,Excellent,4.7
+249,30,Female,Frequently,Fair,3.2
+250,39,Male,Rarely,Good,3.9
+251,23,Female,Very Often,Excellent,4.8
+252,36,Female,Occasionally,Poor,2.3
+253,44,Male,Rarely,Good,4
+254,28,Female,Frequently,Good,3.5
+255,35,Male,Occasionally,Excellent,4.2
+256,22,Female,Very Often,Poor,2.1
+257,45,Male,Rarely,Good,4
+258,29,Female,Frequently,Fair,3.1
+259,38,Male,Occasionally,Excellent,4.3
+260,24,Male,Very Often,Poor,2
+261,31,Female,Frequently,Good,3.6
+262,50,Male,Rarely,Fair,3.3
+263,27,Female,Occasionally,Excellent,4.5
+264,34,Female,Frequently,Good,3.8
+265,42,Male,Frequently,Excellent,4.4
+266,21,Female,Occasionally,Fair,3
+267,55,Female,Rarely,Good,4.1
+268,32,Male,Very Often,Excellent,4.6
+269,26,Male,Frequently,Poor,2.2
+270,29,Female,Frequently,Good,3.7
+271,47,Male,Occasionally,Excellent,4.7
+272,30,Female,Frequently,Fair,3.2
+273,39,Male,Rarely,Good,3.9
+274,23,Female,Very Often,Excellent,4.8
+275,36,Female,Occasionally,Poor,2.3
+276,44,Male,Rarely,Good,4
+277,28,Female,Frequently,Good,3.5
+278,35,Male,Occasionally,Excellent,4.2
+279,22,Female,Very Often,Poor,2.1
+280,45,Male,Rarely,Good,4
+281,29,Female,Frequently,Fair,3.1
+282,38,Male,Occasionally,Excellent,4.3
+283,24,Male,Very Often,Poor,2
+284,31,Female,Frequently,Good,3.6
+285,50,Male,Rarely,Fair,3.3
+286,27,Female,Occasionally,Excellent,4.5
+287,34,Female,Frequently,Good,3.8
+288,42,Male,Frequently,Excellent,4.4
+289,21,Female,Occasionally,Fair,3
+290,55,Female,Rarely,Good,4.1
+291,32,Male,Very Often,Excellent,4.6
+292,26,Male,Frequently,Poor,2.2
+293,29,Female,Frequently,Good,3.7
+294,47,Male,Occasionally,Excellent,4.7
+295,30,Female,Frequently,Fair,3.2
+296,39,Male,Rarely,Good,3.9
+297,23,Female,Very Often,Excellent,4.8
+298,36,Female,Occasionally,Poor,2.3
+299,44,Male,Rarely,Good,4
+300,28,Female,Frequently,Good,3.5
